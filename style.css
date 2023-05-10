@@ -387,6 +387,13 @@ section{
     text-align: center;
     color: rgba(22, 99, 175, 0.766);
 }
+.contact .row2 a{
+    color:black
+}
+.contact .row2 a:hover{
+    color: #1a73e8;
+
+}
 
 .contact .row h3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
